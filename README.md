@@ -6,6 +6,7 @@ _books, tutorials and best practices_
   * [The Rust Programming Language](https://doc.rust-lang.org/book/)
   * [Rustonomicon](https://doc.rust-lang.org/nomicon/)
   * [Programming Rust: Fast, Safe Systems Development](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1492052590)
+  * [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS)
 * ### Examples, best practices, tutorials
   * [Effective Rust](https://www.lurklurk.org/effective-rust/)
   * [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
