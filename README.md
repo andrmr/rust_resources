@@ -12,6 +12,7 @@ _books, tutorials and best practices_
   * [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
   * [Effective Rust](https://www.lurklurk.org/effective-rust/)
   * [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
+  * [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
   * [Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
   * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
   * [Rust by Practice](https://practice.rs/why-exercise.html)
